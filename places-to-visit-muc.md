@@ -5,3 +5,4 @@ _Biergartens, Bratwurst, and Brass Bands_
 * Old Town Hall
 * Pinakotheken
 * Deutsches Museum
+* Hirschegarten
